@@ -8,7 +8,7 @@ Class {
 	#category : #'Polyglotric-PharoSandbox'
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : #utilities }
 MyClass >> helloThere [
 
 	^ 'hello'
