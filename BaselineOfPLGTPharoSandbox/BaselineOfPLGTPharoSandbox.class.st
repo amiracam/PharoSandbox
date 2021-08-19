@@ -1,11 +1,11 @@
 Class {
-	#name : #BaselineOfPolyglotricPharoSandbox,
+	#name : #BaselineOfPLGTPharoSandbox,
 	#superclass : #BaselineOf,
 	#category : #BaselineOfPLGTPharoSandbox
 }
 
 { #category : #baselines }
-BaselineOfPolyglotricPharoSandbox >> baseline: spec [
+BaselineOfPLGTPharoSandbox >> baseline: spec [
 <baseline>
 
 spec for: #common do: [ spec package: 'PLGTPharoSandbox' ]
